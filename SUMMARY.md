@@ -1,4 +1,4 @@
 # Summary
 
-* [The Basics](standards/The Basics.md)
+* [Web Standards](standards/The Basics.md)
 
