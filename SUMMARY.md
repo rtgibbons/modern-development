@@ -1,5 +1,5 @@
 # Summary
 
-* [Standards](standards/Standards)
-    * [The Basics](standards/The Basics)
+* [Standards](standards/Standards.md)
+    * [The Basics](standards/The Basics.md)
 
