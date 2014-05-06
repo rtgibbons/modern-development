@@ -3,7 +3,7 @@
 ### Where to start
 CSS - http://learnlayout.com/  
 JS - https://www.khanacademy.org/computing/cs/programming  
-Chrome Dev Tools - http://discover-devtools.codeschool.com/
+Chrome Dev Tools - http://discover-devtools.codeschool.com/  
 Git - http://try.github.io/levels/1/challenges/1  
 Backbone - http://ricostacruz.com/backbone-patterns/  
 Github (Hello World) - https://guides.github.com/activities/hello-world/  
