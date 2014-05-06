@@ -38,7 +38,6 @@ http://addyosmani.github.io/backbone-fundamentals/
 http://survivejs.com/  
 
 ### Newletters
-Please subscribe to each of these. We will cover new libraries each week from some of these newsletters. As well as share how they could be used to make a project more creative with simple usage.
 http://web-design-weekly.com/  
 http://html5weekly.com/  
 http://javascriptweekly.com  
