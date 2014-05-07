@@ -1,8 +1,9 @@
 CACHE MANIFEST
-# Revision 1399496225859
+# Revision 1399498726301
 
 CACHE:
 standards/Tools.html
+standards/Responsive Web Design.html
 standards/Web Standards.html
 index.html
 middleware/Application Architecture.html
@@ -52,8 +53,8 @@ gitbook/jsrepl/sandbox.html
 gitbook/jsrepl/sandbox.js
 gitbook/print.css
 gitbook/style.css
-gitbook/plugins/gitbook-plugin-ga/plugin.js
 gitbook/plugins/gitbook-plugin-mathjax/plugin.js
+gitbook/plugins/gitbook-plugin-ga/plugin.js
 gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
 
 NETWORK:
