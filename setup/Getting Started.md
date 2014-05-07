@@ -26,6 +26,10 @@
 * Notes - http://evernote.com/
 * UI Sketching - https://www.fiftythree.com/paper)
 
+### Dependency management
+
+* Homebrew (OSX) - http://brew.sh/
+
 ## Best Practices
 * [North](http://pointnorth.io/) - best practices for developing modern web based properties
 

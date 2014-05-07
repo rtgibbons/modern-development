@@ -13,6 +13,10 @@
 ## Meteor
 * Meteor (Node) - https://www.meteor.com/
 
+## Production-ready
+
+* Forever (Node) - https://github.com/nodejitsu/forever
+
 ## Debugging
 
 [Node Inspector](https://github.com/node-inspector/node-inspector)

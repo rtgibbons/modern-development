@@ -2,9 +2,7 @@
 
 * [Getting Started](setup/Getting Started.md)
 * [Web Standards](standards/Web Standards.md)
-    * [Responsive Web Design (RWD)](standards/Responsive Web Design.md)
     * [Tools](standards/Tools.md)
-    * [Performance](standards/Performance.md)
 * [Application Architecture](middleware/Application Architecture.md)
     * [PHP](middleware/PHP.md)
     * [Ruby](middleware/Ruby.md)
@@ -12,6 +10,10 @@
     * [Databases](middleware/Databases.md)
 * [Dev Ops](ops/Dev Ops.md)
     * [Hosting](ops/Hosting.md)
+    * [Performance](ops/Performance.md)
+    * [Automation](ops/Automation.md)
+    * [Monitoring](ops/Monitoring.md)
 * [Mobile](mobile/Mobile.md)
 * [Physical](hardware/Physical.md)
+* [Security](security/Security.md)
 
