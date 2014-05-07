@@ -4,7 +4,7 @@
 * [Web Standards](standards/Web Standards.md)
     * [Responsive Web Design (RWD)](standards/Responsive Web Design.md)
     * [Tools](standards/Tools.md)
-    * [Performance](ops/Performance.md)
+    * [Performance](standards/Performance.md)
 * [Application Architecture](middleware/Application Architecture.md)
     * [PHP](middleware/PHP.md)
     * [Ruby](middleware/Ruby.md)
