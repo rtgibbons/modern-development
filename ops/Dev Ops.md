@@ -2,7 +2,6 @@
 
 ## Tools
 
-* Code Climate - https://codeclimate.com/
 * Codeship - https://www.codeship.io
 * New Relic - http://newrelic.com/
 * Capistrano - http://capistranorb.com/

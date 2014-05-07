@@ -66,22 +66,27 @@
 
 ## Advanced Learning
 
-### Libraries
+### CSS Preprocessors
+
+#### Guides
+Sass based CSS architecture and methodology - http://docssa.info/
+
+### JS Libraries
 * [Modernizr](http://modernizr.com/) (Feature Detection)
 * [Require JS](http://requirejs.org/) - JavaScript file and module loader
 
-### Backbone
+#### Backbone JS
 * [Backbone](http://backbonejs.org) - Javascript Application Architecture using MVV
 * [Backbone Mixins](http://ricostacruz.com/backbone-patterns/#mixins)
 * [Backbone.Marionette](http://marionettejs.com/)
 
-### Angular JS
+#### Angular JS
 * [Angular JS](https://angularjs.org/) - Google's web framework
 
-### Web Components
+#### Web Components
 * http://webcomponents.org/
 
-### JS Testing
+#### JS Testing
 * Jasmine - http://jasmine.github.io/2.0/introduction.html
 * Karma - http://karma-runner.github.io/0.12/index.html
 
