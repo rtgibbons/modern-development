@@ -1,0 +1,23 @@
+{
+    "generator": "site",
+
+    "plugins": ["ga"],
+
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-XXX-Y"
+        }
+    },
+
+    "links": {
+        "home": false,
+        "about": "https://github.com/corbanb/modern-development",
+        "issues": "https://github.com/corbanb/modern-development/issues",
+        "contribute": false,
+        "sharing": {
+            "google": false,
+            "facebook": false,
+            "twitter": false
+        }
+    }
+}
