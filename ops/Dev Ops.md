@@ -3,10 +3,12 @@
 ## Tools
 
 * Codeship - https://www.codeship.io
-* New Relic - http://newrelic.com/
 * Capistrano - http://capistranorb.com/
 * Logstash - http://logstash.net/
 
+### Monitoring
+* Stack Driver - http://www.stackdriver.com/ (AWS, Google)
+* New Relic - http://newrelic.com/
 
 ### Virtualization
 * Berkshelf - http://berkshelf.com/
