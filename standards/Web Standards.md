@@ -21,7 +21,7 @@
 * [SASS](http://sass-lang.com) - Faster CSS
 
 ### Kick starting  a project
-* [HTML5BP](http://html5boilerplate.com/) - [Intro](https://www.youtube.com/watch?v=WkLO-q2wC80)
+* [HTML5BP](http://html5boilerplate.com/) - ([Intro](https://www.youtube.com/watch?v=WkLO-q2wC80) and [Initializr](http://www.initializr.com/))
 * [Bootstrap](http://getbootstrap.com/2.3.2/getting-started.html)   (HTML/CSS/JS)
 * [Yeoman](http://yeoman.io/) - Project Generation/Scaffolding
 
