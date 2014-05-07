@@ -5,9 +5,6 @@
 ### Learn
 * CSS - http://learnlayout.com/
 * JS - https://www.khanacademy.org/computing/cs/programming
-* Git - http://try.github.io/levels/1/challenges/1
-* Backbone - http://ricostacruz.com/backbone-patterns/
-* Github (Hello World) - https://guides.github.com/activities/hello-world/
 
 ### Essential libraries
 * [jQuery](http://learn.jquery.com/about-jquery/how-jquery-works/) - The #1 JS lib
@@ -25,10 +22,8 @@
 * http://code.tutsplus.com/
 * http://css-tricks.com/
 
-### Books (Open Source)
+### Books
 * http://gitbookio.github.io/javascript/
-* http://addyosmani.github.io/backbone-fundamentals/
-* http://ricostacruz.com/backbone-patterns/
 * http://survivejs.com/
 
 ### Video Classes
@@ -47,8 +42,6 @@
 * http://caniuse.com/
 * http://css3please.com/
 
-## Advanced Learning
-
 ### Best Practices
 * MDO - [HTML/CSS Code Style Guide](http://mdo.github.io/code-guide/)
 * AirBNB JS Style Guide - https://github.com/airbnb/javascript
@@ -61,22 +54,28 @@
 #### Guides
 Sass based CSS architecture and methodology - http://docssa.info/
 
-### JS Libraries
+## JS Libraries
 * [Modernizr](http://modernizr.com/) (Feature Detection)
 * [Require JS](http://requirejs.org/) - JavaScript file and module loader
-
-#### Backbone JS
 * [Backbone](http://backbonejs.org) - Javascript Application Architecture using MVV
+
+### Backbone JS
+
+#### Addons
 * [Backbone Mixins](http://ricostacruz.com/backbone-patterns/#mixins)
 * [Backbone.Marionette](http://marionettejs.com/)
 
-#### Angular JS
+#### Learn
+* http://addyosmani.github.io/backbone-fundamentals/
+* http://ricostacruz.com/backbone-patterns/
+
+### Angular JS
 * [Angular JS](https://angularjs.org/) - Google's web framework
 
-#### Web Components
+### Web Components
 * http://webcomponents.org/
 
-#### JS Testing
+## JS Testing
 * Jasmine - http://jasmine.github.io/2.0/introduction.html
 * Karma - http://karma-runner.github.io/0.12/index.html
 
@@ -105,7 +104,7 @@ Sass based CSS architecture and methodology - http://docssa.info/
 * http://www.babylonjs.com/
 * http://www.pandajs.net/
 
-### Build/Deploy Tools
+## Build/Deploy Tools
 * http://gruntjs.com/ - JavaScript Task Runner
 * http://bower.io/ - A Package Manager for the web
 * https://www.codeship.io/ - Deploying Code
