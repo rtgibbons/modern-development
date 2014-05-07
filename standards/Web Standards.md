@@ -48,10 +48,6 @@
 * http://caniuse.com/
 * http://css3please.com/
 
-### Browser Plugins
-* [PageSpeed Insights](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli)
-* [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
-
 ## Advanced Learning
 
 ### Best Practices
