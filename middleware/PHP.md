@@ -10,6 +10,10 @@
 ### Package Managers
 * Composer (PHP) - https://getcomposer.org/doc/00-intro.md
 
+### ORM/Databases
+* Eloquent ORM - http://laravel.com/docs/eloquent
+* [Slim + Eloquent](http://www.slimframework.com/news/slim-and-laravel-eloquent-orm)
+
 
 ## Debugging
 [PHP XDebug](http://xdebug.org/docs/) and [Browser Plugin](https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc)
