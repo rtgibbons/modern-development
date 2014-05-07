@@ -44,6 +44,11 @@
 * http://javascriptweekly.com
 * [Github Explore](https://github.com/explore/subscribe)
 
+### Resources
+* http://www.html5rocks.com/en/
+* http://caniuse.com/
+* http://css3please.com/
+
 ### Videos
 * [Sublime Text Workflow](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
 * [Dev Tools](https://www.youtube.com/watch?v=qyM37XKkmKQ)
@@ -59,13 +64,24 @@
 * [Modernizr](http://modernizr.com/) (Feature Detection)
 * [Require JS](http://requirejs.org/) - JavaScript file and module loader
 
-#### Backbone
+### Backbone
 * [Backbone](http://backbonejs.org) - Javascript Application Architecture using MVV
 * [Backbone Mixins](http://ricostacruz.com/backbone-patterns/#mixins)
 * [Backbone.Marionette](http://marionettejs.com/)
 
-#### Angular JS
+### Angular JS
 * [Angular JS](https://angularjs.org/) - Google's web framework
+
+### JS Testing
+* Jasmine - http://jasmine.github.io/2.0/introduction.html
+* Karma - http://karma-runner.github.io/0.12/index.html
+
+## Getting Creative
+
+### Libraries
+* http://h5bp.github.io/Effeckt.css/ - Animation
+* http://www.unheap.com/ - JQuery Plugins
+* http://customelements.io/ - Web Components Library
 
 
 ## More
@@ -77,9 +93,6 @@
 
 ### Other Resources
 * http://liquidapsive.com/ - Responsive/Adaptive/Fluid/Static Examples
-* http://www.sourcetreeapp.com/ - GIT OSX Desktop App
-* http://www.iterm2.com/#/section/home - OSX Terminal Replacement
-* https://github.com/robbyrussell/oh-my-zsh - Terminal Utilities
 
 ### Articles
 * http://blog.codinghorror.com/please-dont-learn-to-code/

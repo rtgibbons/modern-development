@@ -6,8 +6,10 @@
     * [PHP](middleware/PHP.md)
     * [Ruby](middleware/Ruby.md)
     * [Node](middleware/Node.md)
+    * [Databases](middleware/Databases.md)
 * [Dev Ops](ops/Dev Ops.md)
     * [Hosting](ops/Hosting.md)
     * [Performance](ops/Performance.md)
 * [Mobile](mobile/Mobile.md)
+* [Physical](hardware/Physical.md)
 

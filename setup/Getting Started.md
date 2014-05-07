@@ -1,11 +1,53 @@
 # Getting Started
 
+## Development Setup
+* http://sourabhbajaj.com/mac-setup/
+* https://gist.github.com/corbanb/10900154
 
-## Code Editors / IDEs
+## Essential Tools
+
+### Code Editors / IDEs
 * http://www.sublimetext.com/ - The standards code editor
 * http://www.jetbrains.com/products.html - Development IDE
 * https://atom.io/ - Githubs Code Editor
 * http://brackets.io/ - Adobe's Code Editor
 
-## Development Setup
-* http://sourabhbajaj.com/mac-setup/
+### Apps
+* http://www.sourcetreeapp.com/ - GIT OSX Desktop App
+
+### Terminal
+* http://www.iterm2.com/#/section/home - OSX Terminal Replacement
+* https://github.com/robbyrussell/oh-my-zsh - Terminal Utilities
+
+### Brainstorming
+* Mind Mapping - https://mindnode.com/
+* Notes - http://evernote.com/
+* UI Sketching - https://www.fiftythree.com/paper)
+
+
+## Creative
+
+### Prototyping
+* http://avocode.com/
+* https://projectparfait.adobe.com/
+* http://macaw.co/
+* http://html.adobe.com/edge/reflow/
+
+### Design Tools
+* http://bohemiancoding.com/sketch/
+
+### Inspiration
+* Interactive Annual - http://www.commarts.com/annuals/2014-interactive
+* UI - http://capptivate.co/
+* Design - http://dribbble.com/
+* Web Awards - http://www.thefwa.com/
+* http://mediaqueri.es/ - Best of RWD
+
+
+## Teams
+
+### Collaboration
+Slack - https://slack.com/is/team-communication
+
+### Issue Tracking
+
