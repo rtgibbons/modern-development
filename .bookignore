@@ -1,4 +1,5 @@
 *.sh
 Gruntfile.js
 package.json
-
+AUTHORS.md
+CHANGES.md
