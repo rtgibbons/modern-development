@@ -9,9 +9,13 @@
     "github": null,
     "githubHost": "https://github.com/",
 
-    "plugins": [],
+    "plugins": ["ga"],
 
-    "pluginsConfig": {},
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-XXX-Y"
+        }
+    },
 
     "links": {
         "home": false,
