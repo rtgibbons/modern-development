@@ -22,18 +22,18 @@
     // Links in template (null: default, false: remove, string: new value)
     "links": {
         // Link to home in the top-left corner
-        "home": null,
+        "home": false,
 
         // Links in top of sidebar
-        "about": null,
-        "issues": null,
-        "contribute": null,
+        "about": 'https://github.com/corbanb/modern-development',
+        "issues": 'https://github.com/corbanb/modern-development/issues',
+        "contribute": false,
 
         // Sharing links
         "sharing": {
-            "google": null,
-            "facebook": null,
-            "twitter": null
+            "google": false,
+            "facebook": false,
+            "twitter": false
         }
     }
 }
