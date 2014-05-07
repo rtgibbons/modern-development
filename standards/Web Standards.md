@@ -99,7 +99,7 @@ Sass based CSS architecture and methodology - http://docssa.info/
 * https://wrapbootstrap.com/
 * http://bootswatch.com/
 
-### Other Libraries
+### Libraries
 * http://h5bp.github.io/Effeckt.css/ - Animation
 * http://www.unheap.com/ - JQuery Plugins
 * http://customelements.io/ - Web Components Library
