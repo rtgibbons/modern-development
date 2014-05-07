@@ -53,7 +53,8 @@
 * [SASS](http://sass-lang.com) - Faster CSS
 
 #### Guides
-Sass based CSS architecture and methodology - http://docssa.info/
+* Sass based CSS architecture and methodology - http://docssa.info/
+* Why SASS - http://alistapart.com/article/why-sass
 
 ## JS Libraries
 * [Modernizr](http://modernizr.com/) (Feature Detection)
