@@ -10,7 +10,3 @@ Also keep in mind these techniques are very opionated. This is a way to keep foc
 This project was built with [Gitbook](https://github.com/GitbookIO/gitbook) and the [Gitbook Editor](https://github.com/GitbookIO/editor/releases).
 
 Learn more about the book [here](https://github.com/corbanb/modern-development).
-
-
-Contributors:
-[Corban Baxter](https://www.linkedin.com/profile/view?id=4006847)
