@@ -7,6 +7,7 @@
     * [Ruby](middleware/Ruby.md)
     * [Node](middleware/Node.md)
 * [Dev Ops](ops/Dev Ops.md)
-    * Hosting
-* Mobile
+    * [Hosting](ops/Hosting.md)
+    * [Performance](ops/Performance.md)
+* [Mobile](mobile/Mobile.md)
 
