@@ -7,19 +7,19 @@ module.exports = function (grunt) {
 
     grunt.initConfig({
         'gitbook': {
-            development: {
-                input: "./",
-                github: "corbanb/modern-development"
+            'development': {
+                'input': './',
+                'github': 'corbanb/modern-development'
             }
         },
         'gh-pages': {
-            options: {
-                base: '_book'
+            'options': {
+                'base': '_book'
             },
-            src: ['**']
+            'src': ['**']
         },
         'clean': {
-            files: '.grunt'
+            'files': '.grunt'
         }
     });
 
