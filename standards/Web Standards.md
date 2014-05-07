@@ -12,6 +12,7 @@
 
 ### Writing great code
 * MDO - [HTML/CSS Code Style Guide](http://mdo.github.io/code-guide/)
+* AirBNB JS Style Guide - https://github.com/airbnb/javascript
 * http://youmightnotneedjquery.com/
 * [Multi-device best practices from Google](https://developers.google.com/web/fundamentals/)
 
