@@ -5,23 +5,16 @@
 ### Learn
 * CSS - http://learnlayout.com/
 * JS - https://www.khanacademy.org/computing/cs/programming
-* Chrome Dev Tools - http://discover-devtools.codeschool.com/
 * Git - http://try.github.io/levels/1/challenges/1
 * Backbone - http://ricostacruz.com/backbone-patterns/
 * Github (Hello World) - https://guides.github.com/activities/hello-world/
-
-### Writing great code
-* MDO - [HTML/CSS Code Style Guide](http://mdo.github.io/code-guide/)
-* AirBNB JS Style Guide - https://github.com/airbnb/javascript
-* http://youmightnotneedjquery.com/
-* [Multi-device best practices from Google](https://developers.google.com/web/fundamentals/)
 
 ### Essential libraries
 * [jQuery](http://learn.jquery.com/about-jquery/how-jquery-works/) - The #1 JS lib
 * [SASS](http://sass-lang.com) - Faster CSS
 
 ### Kick starting  a project
-* [HTML5BP](http://html5boilerplate.com/) - ([Intro](https://www.youtube.com/watch?v=WkLO-q2wC80) and [Initializr](http://www.initializr.com/))
+* [HTML5BP](http://html5boilerplate.com/) - ([Intro](https://www.youtube.com/watch?v=WkLO-q2wC80), [Demo](https://www.youtube.com/watch?v=qyM37XKkmKQ) and [Initializr](http://www.initializr.com/))
 * [Bootstrap](http://getbootstrap.com/2.3.2/getting-started.html)   (HTML/CSS/JS)
 * [Yeoman](http://yeoman.io/) - Project Generation/Scaffolding
 
@@ -55,16 +48,16 @@
 * http://caniuse.com/
 * http://css3please.com/
 
-### Videos
-* [Sublime Text Workflow](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
-* [Dev Tools](https://www.youtube.com/watch?v=qyM37XKkmKQ)
-* [Dev Tools Productivity](https://www.youtube.com/watch?v=kVSo4buDAEE)
-
 ### Browser Plugins
 * [PageSpeed Insights](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli)
 * [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
 
 ## Advanced Learning
+
+### Best Practices
+* MDO - [HTML/CSS Code Style Guide](http://mdo.github.io/code-guide/)
+* AirBNB JS Style Guide - https://github.com/airbnb/javascript
+* [Multi-device best practices from Google](https://developers.google.com/web/fundamentals/)
 
 ### CSS Preprocessors
 
@@ -94,6 +87,10 @@ Sass based CSS architecture and methodology - http://docssa.info/
 
 ### Canvas
 * http://vladakilov.github.io/imagine/ - Lightweight Canvas
+* http://kineticjs.com/
+* http://fabricjs.com/
+* http://www.createjs.com/#!/EaselJS
+* http://paperjs.org/
 
 ### Bootstrap Themes
 * https://wrapbootstrap.com/
@@ -103,20 +100,24 @@ Sass based CSS architecture and methodology - http://docssa.info/
 * http://h5bp.github.io/Effeckt.css/ - Animation
 * http://www.unheap.com/ - JQuery Plugins
 * http://customelements.io/ - Web Components Library
+* http://www.greensock.com/gsap-js/ - Custom Animation
 
-### HTML5 Games
-* http://jessefreeman.com/game-starter-kits/
-
-
-## More
+### HTML5 Game Framworks
+* http://phaser.io/
+* https://github.com/GoodBoyDigital/pixi.js
+* http://www.babylonjs.com/
+* http://www.pandajs.net/
 
 ### Build/Deploy Tools
 * http://gruntjs.com/ - JavaScript Task Runner
 * http://bower.io/ - A Package Manager for the web
 * https://www.codeship.io/ - Deploying Code
 
-### Other Resources
+## More
+
+### Resources
 * http://liquidapsive.com/ - Responsive/Adaptive/Fluid/Static Examples
+* http://youmightnotneedjquery.com/ - JQuery vs. Vanilla JS
 
 ### Articles
 * http://blog.codinghorror.com/please-dont-learn-to-code/

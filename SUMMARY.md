@@ -2,6 +2,7 @@
 
 * [Getting Started](setup/Getting Started.md)
 * [Web Standards](standards/Web Standards.md)
+    * [Tools](standards/Tools.md)
 * [Application Architecture](middleware/Application Architecture.md)
     * [PHP](middleware/PHP.md)
     * [Ruby](middleware/Ruby.md)
