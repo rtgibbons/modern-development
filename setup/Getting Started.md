@@ -14,6 +14,7 @@
 
 ### Apps
 * http://www.sourcetreeapp.com/ - GIT OSX Desktop App
+* http://clickontyler.com/virtualhostx/ - VHost Manager
 
 ### Commandline Essentials
 * http://www.iterm2.com/#/section/home - OSX Terminal Replacement

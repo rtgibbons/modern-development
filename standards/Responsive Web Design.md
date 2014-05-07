@@ -16,3 +16,7 @@
 ### Inspiration
 * Best of RWD - http://mediaqueri.es/
 
+### Other
+* RWD IRL Presentation - https://speakerdeck.com/trentwalton/rwd-irl
+* Vistors browser sizes playedbacked - http://whatyouseeiswhatyouget.net/
+

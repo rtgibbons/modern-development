@@ -45,6 +45,7 @@
 ### Best Practices
 * MDO - [HTML/CSS Code Style Guide](http://mdo.github.io/code-guide/)
 * AirBNB JS Style Guide - https://github.com/airbnb/javascript
+* Creating Style Guides - http://alistapart.com/article/creating-style-guides
 
 ### CSS Preprocessors
 
