@@ -38,6 +38,11 @@
 * http://ricostacruz.com/backbone-patterns/
 * http://survivejs.com/
 
+### Video Classes
+* http://teamtreehouse.com/
+* http://www.codecademy.com/
+* https://www.codeschool.com/
+
 ### Weekly Newletters
 * http://web-design-weekly.com/
 * http://html5weekly.com/
@@ -82,6 +87,10 @@
 * http://h5bp.github.io/Effeckt.css/ - Animation
 * http://www.unheap.com/ - JQuery Plugins
 * http://customelements.io/ - Web Components Library
+
+### Bootstrap Themes
+* https://wrapbootstrap.com/
+* http://bootswatch.com/
 
 
 ## More

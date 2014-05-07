@@ -41,13 +41,14 @@
 * UI - http://capptivate.co/
 * Design - http://dribbble.com/
 * Web Awards - http://www.thefwa.com/
-* http://mediaqueri.es/ - Best of RWD
+* Best of RWD - http://mediaqueri.es/
 
 
 ## Teams
 
 ### Collaboration
-Slack - https://slack.com/is/team-communication
+* Slack - https://slack.com/is/team-communication
 
 ### Issue Tracking
+* http://sprint.ly/
 
