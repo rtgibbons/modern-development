@@ -24,7 +24,7 @@
 * [Bootstrap](http://getbootstrap.com/2.3.2/getting-started.html)   (HTML/CSS/JS)
 * [Yeoman](http://yeoman.io/) - Project Generation/Scaffolding
 
-### Blogs to read
+### Blogs/Reading
 * http://feedly.com/ (RSS reader)
 * http://alistapart.com/
 * http://www.zeldman.com/
@@ -37,10 +37,11 @@
 * http://addyosmani.github.io/backbone-fundamentals/
 * http://survivejs.com/
 
-### Newletters
+### Weekly Newletters
 * http://web-design-weekly.com/
 * http://html5weekly.com/
 * http://javascriptweekly.com
+* [Github Explore](https://github.com/explore/subscribe)
 
 ### Videos
 * [Sublime Text Workflow](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
@@ -54,16 +55,24 @@
 ## Advanced Learning
 
 ### Architecture Libraries
-* [Backbone](http://backbonejs.org) - Javascript Application Architecture using MVV
+* [Modernizr](http://modernizr.com/) (Feature Detection)
 * [Require JS](http://requirejs.org/) - JavaScript file and module loader
+
+#### Backbone
+* [Backbone](http://backbonejs.org) - Javascript Application Architecture using MVV
+* [Backbone Mixins](http://ricostacruz.com/backbone-patterns/#mixins)
+* [Backbone.Marionette](http://marionettejs.com/)
+
+#### Angular JS
 * [Angular JS](https://angularjs.org/) - Google's web framework
+
+
+## More
 
 ### Build/Deploy Tools
 * http://gruntjs.com/ - JavaScript Task Runner
 * http://bower.io/ - A Package Manager for the web
 * https://www.codeship.io/ - Deploying Code
-
-## More
 
 ### Other Resources
 * http://liquidapsive.com/ - Responsive/Adaptive/Fluid/Static Examples
