@@ -5,19 +5,19 @@
 
     "pluginsConfig": {
         "ga": {
-            "token": "UA-XXX-Y"
+            "token": "UA-50789505-1"
         }
     },
 
     "links": {
-        "home": false,
-        "about": "https://github.com/corbanb/modern-development",
+        "home": "https://github.com/corbanb/modern-development",
+        "about": "https://github.com/corbanb/modern-development/blob/master/AUTHORS.md",
         "issues": "https://github.com/corbanb/modern-development/issues",
         "contribute": false,
         "sharing": {
             "google": false,
             "facebook": false,
-            "twitter": false
+            "twitter": "http://twitter.com/corbanb"
         }
     }
 }
