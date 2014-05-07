@@ -35,6 +35,7 @@
 ### Books (Open Source)
 * http://gitbookio.github.io/javascript/
 * http://addyosmani.github.io/backbone-fundamentals/
+* http://ricostacruz.com/backbone-patterns/
 * http://survivejs.com/
 
 ### Weekly Newletters
