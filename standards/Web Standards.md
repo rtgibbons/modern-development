@@ -66,7 +66,7 @@
 
 ## Advanced Learning
 
-### Architecture Libraries
+### Libraries
 * [Modernizr](http://modernizr.com/) (Feature Detection)
 * [Require JS](http://requirejs.org/) - JavaScript file and module loader
 
@@ -77,6 +77,9 @@
 
 ### Angular JS
 * [Angular JS](https://angularjs.org/) - Google's web framework
+
+### Web Components
+* http://webcomponents.org/
 
 ### JS Testing
 * Jasmine - http://jasmine.github.io/2.0/introduction.html
