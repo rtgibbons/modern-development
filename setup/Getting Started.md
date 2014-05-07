@@ -45,7 +45,6 @@
 * UI - http://capptivate.co/
 * Design - http://dribbble.com/
 * Web Awards - http://www.thefwa.com/
-* Best of RWD - http://mediaqueri.es/
 
 
 ## Teams

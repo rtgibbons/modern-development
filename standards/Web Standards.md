@@ -11,7 +11,6 @@
 
 ### Essential libraries
 * [jQuery](http://learn.jquery.com/about-jquery/how-jquery-works/) - The #1 JS lib
-* [SASS](http://sass-lang.com) - Faster CSS
 
 ### Kick starting  a project
 * [HTML5BP](http://html5boilerplate.com/) - ([Intro](https://www.youtube.com/watch?v=WkLO-q2wC80), [Demo](https://www.youtube.com/watch?v=qyM37XKkmKQ) and [Initializr](http://www.initializr.com/))
@@ -53,9 +52,11 @@
 ### Best Practices
 * MDO - [HTML/CSS Code Style Guide](http://mdo.github.io/code-guide/)
 * AirBNB JS Style Guide - https://github.com/airbnb/javascript
-* [Multi-device best practices from Google](https://developers.google.com/web/fundamentals/)
 
 ### CSS Preprocessors
+
+#### Libraries
+* [SASS](http://sass-lang.com) - Faster CSS
 
 #### Guides
 Sass based CSS architecture and methodology - http://docssa.info/
@@ -112,7 +113,6 @@ Sass based CSS architecture and methodology - http://docssa.info/
 ## More
 
 ### Resources
-* http://liquidapsive.com/ - Responsive/Adaptive/Fluid/Static Examples
 * http://youmightnotneedjquery.com/ - JQuery vs. Vanilla JS
 
 ### Articles
