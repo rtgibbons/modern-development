@@ -12,5 +12,4 @@
 * Apache - http://httpd.apache.org/
 * Unicorn (Ruby) - http://unicorn.bogomips.org/
 * Thin (Ruby) - http://code.macournoyer.com/thin/
-* Forever (Node) - https://github.com/nodejitsu/forever
 
