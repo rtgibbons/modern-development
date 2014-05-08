@@ -1,67 +1,67 @@
 # Getting Started
 
 ## Development Setup
-* http://sourabhbajaj.com/mac-setup/
-* https://gist.github.com/corbanb/10900154
+* [OSX Developer Setup Guide](http://sourabhbajaj.com/mac-setup/) - GitBook
+* [OSX Setup Guide 2](https://gist.github.com/corbanb/10900154)
 
 ## Essential Tools
 
 ### Code Editors / IDEs
-* http://www.sublimetext.com/ - Code editor ([Workflow Video]([Sublime Text Workflow](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)))
-* http://www.jetbrains.com/products.html - Development IDE
-* https://atom.io/ - Githubs Code Editor
-* http://brackets.io/ - Adobe's Code Editor
+* [Sublime Text](http://www.sublimetext.com/) - Code Editor ([Workflow Video]([Sublime Text Workflow](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/))
+* [JetBrains IDES](http://www.jetbrains.com/products.html) - IntelliJ/Ruby Mine/PHP Storm
+* [Atom IO](https://atom.io/) - Githubs Code Editor
+* [Brackets](http://brackets.io/) - Adobe's Code Editor
 
 ### Apps
-* http://www.sourcetreeapp.com/ - GIT OSX Desktop App
-* http://clickontyler.com/virtualhostx/ - VHost Manager
+* [Source Tree](http://www.sourcetreeapp.com/) - GIT OSX Desktop App
+* [VirtualHostX](http://clickontyler.com/virtualhostx/) - VHost Manager
 
 ### Commandline Essentials
-* http://www.iterm2.com/#/section/home - OSX Terminal Replacement
-* https://github.com/robbyrussell/oh-my-zsh - ZSH Framework
-* http://dotfiles.github.io/ - Dotfiles
+* [iTerm2](http://www.iterm2.com/#/section/home) - OSX Terminal Replacement
+* [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh) - ZSH Framework
+* [GitHub Dot Files](http://dotfiles.github.io/) - Colection of Dotfiles
 
 ### Brainstorming
-* Mind Mapping - https://mindnode.com/
-* Notes - http://evernote.com/
-* UI Sketching - https://www.fiftythree.com/paper)
+* [Mind Node](https://mindnode.com/) - Mind Mapping
+* [EverNote](http://evernote.com/) - Notes in the Cloud
+* [Paper for iPad](https://www.fiftythree.com/paper) - UI Sketching
 
 ### Dependency management
 
-* Homebrew (OSX) - http://brew.sh/
+* [Homebrew](http://brew.sh/) - (OSX)
 
 ## Best Practices
 * [North](http://pointnorth.io/) - best practices for developing modern web based properties
 
 
 ## Git
-* Github (Hello World) - https://guides.github.com/activities/hello-world/
-* Git - http://try.github.io/levels/1/challenges/1
+* [Github](https://guides.github.com/activities/hello-world/) - Hello World
+* [Learn Github](http://try.github.io/levels/1/challenges/1) - Code School Exercises
 
 
 ## Creative
 
 ### Prototyping
-* http://avocode.com/
-* https://projectparfait.adobe.com/
-* http://macaw.co/
-* http://html.adobe.com/edge/reflow/
+* [Avocode](http://avocode.com/) - Preview and Inspect PSDs
+* [Adobe Project Parfait](https://projectparfait.adobe.com/)  - Convert PSD comps to code
+* [MACAW](http://macaw.co/) - All in one design and dev tool
+* [Adobe Edge Relow](http://html.adobe.com/edge/reflow/) - RWD Tool
 
-### Design Tools
-* http://bohemiancoding.com/sketch/
+### Design
+* [Sketch](http://bohemiancoding.com/sketch/) - Modern Design Tool
 
 ### Inspiration
-* Interactive Annual - http://www.commarts.com/annuals/2014-interactive
-* UI - http://capptivate.co/
-* Design - http://dribbble.com/
-* Web Awards - http://www.thefwa.com/
+* [CommArts 2014 Interactive Annual](http://www.commarts.com/annuals/2014-interactive)
+* [Capptivate](http://capptivate.co/) - Mobile UI Videos
+* [Dribble](http://dribbble.com/) - Social Design
+* [The FWA](http://www.thefwa.com/) - Interactive Awards
 
 
 ## Teams
 
 ### Collaboration
-* Slack - https://slack.com/is/team-communication
+* [Slack](https://slack.com/is/team-communication) - Team Chat
 
 ### Issue Tracking
-* http://sprint.ly/
+* [Sprint.ly](http://sprint.ly/) - Issue Tracking
 
