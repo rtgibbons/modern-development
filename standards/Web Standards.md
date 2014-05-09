@@ -5,6 +5,7 @@
 ### Learn
 * CSS - http://learnlayout.com/
 * JS - https://www.khanacademy.org/computing/cs/programming
+* http://www.jstherightway.org/
 
 ### Essential libraries
 * [jQuery](http://learn.jquery.com/about-jquery/how-jquery-works/) - The #1 JS lib
@@ -46,6 +47,7 @@
 * MDO - [HTML/CSS Code Style Guide](http://mdo.github.io/code-guide/)
 * AirBNB JS Style Guide - https://github.com/airbnb/javascript
 * Creating Style Guides - http://alistapart.com/article/creating-style-guides
+
 
 ### CSS Preprocessors
 
