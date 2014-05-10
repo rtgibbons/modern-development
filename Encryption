@@ -1,0 +1,59 @@
+# Encryption
+
+> _There are two types of encryption: one that will prevent your sister from reading your diary and one that will prevent your government._
+
+>Bruce Schneier
+
+## The First Rule of Security
+
+Never write your own encryption algorithm.
+
+If you feel like you have to write your own encryption algorithm, you're probably doing it wrong. Many many many smart people have spent their lives creating strong encryption protocols, which rely heavily on mathematics to ensure security.
+
+## Plaintext vs Ciphertext
+
+Time for some vocab 101.
+
+__plaintext__: this is the note, message, data that you want to encrypt. If you want to send a note to a friend, the note is in plaintext.
+
+__ciphertext__: the encrypted plaintext
+
+## Encryption Protocols vs Hashing Protocols
+
+Encryption Protocols are two-way or bidirectional. I can encrypt my plaintext and know that someone else can decrypt it to get the original plaintext back again.
+
+Hashing Protocols only go one way. When you hash something, you can't get the plaintext back out. Commonly, hashing algorithms are used to ensure data integrity as it uses each bit of the plaintext to create some kind of string.
+
+Let's try hashing the word "password".
+
+    $ echo password | shasum -a 256
+    6b3a55e0261b0304143f805a24924d0c1c44524821305f31d9277843b8a10f4e
+
+I can run this over and over and get the same result. This works for any kind of file. If the bits match you'll always get the same result. But watch what happens when I change one of the characters.
+
+    $ echo Password | shasum -a 256
+    63726723570b39f1bee06f92a3680b689c23c038241c1fe3fe9665ba0b0949af
+
+Note both of these start with a 6. That's purely coincidence. I could change any character in the input plaintext and get a completely different result.
+
+    echo p4ssword | shasum -a 256
+    6d5494c72325d57826dddd757c6e53bdde3f7eb03e6d796fbd7adac14afb10a8
+
+
+You've probably seen checksums on the net when you download large files. Once downloaded to your machine, if you run the correct hashing algorithm against the download it should matchup with what you saw on the download site. If it doesn't match up then your file could have been damaged during download, or maybe someone replaced the ownload with something else, maybe more malicious.
+
+## Common Protocols
+
+### RSA
+
+### DES
+
+### AES
+
+### Blowfish
+
+### bcrypt
+
+## Resources
+
+[Wikipedia - Cryptography Portal](http://en.wikipedia.org/wiki/Portal:Cryptography) - A collection of wikipedia content related to cryptography.
