@@ -24,23 +24,32 @@ Encryption Protocols are two-way or bidirectional. I can encrypt my plaintext an
 
 Hashing Protocols only go one way. When you hash something, you can't get the plaintext back out. Commonly, hashing algorithms are used to ensure data integrity as it uses each bit of the plaintext to create some kind of string.
 
-Let's try hashing the word "password".
+Let's try hashing the string "password" using the Secure Hash Algorithm, widely known as SHA.
 
     $ echo password | shasum -a 256
     6b3a55e0261b0304143f805a24924d0c1c44524821305f31d9277843b8a10f4e
 
-I can run this over and over and get the same result. This works for any kind of file. If the bits match you'll always get the same result. But watch what happens when I change one of the characters.
+I can run this over and over and get the same result. This works for any kind of file. If the bits match you'll always get the same result. Watch what happens when I change one of the characters.
 
     $ echo Password | shasum -a 256
     63726723570b39f1bee06f92a3680b689c23c038241c1fe3fe9665ba0b0949af
 
-Note both of these start with a 6. That's purely coincidence. I could change any character in the input plaintext and get a completely different result.
+I could change any character in the input plaintext and get a completely different result.
 
     echo p4ssword | shasum -a 256
     6d5494c72325d57826dddd757c6e53bdde3f7eb03e6d796fbd7adac14afb10a8
 
+> note: The fact that each of these starts with a 6 is purely coincidence.
 
 You've probably seen checksums on the net when you download large files. Once downloaded to your machine, if you run the correct hashing algorithm against the download it should matchup with what you saw on the download site. If it doesn't match up then your file could have been damaged during download, or maybe someone replaced the ownload with something else, maybe more malicious.
+
+## Encrypting Passwords
+
+Use bcrypt for password hashing.
+
+The thing about common hashing algorithms is that they're very fast. They're designed to be fast so you can quickly ensure data integrity. Unfortunately, this comes as a detrement for password hashing. If it's really fast to create hashes, then it's really fast for crackers to test all possible password combinations until they get a matching hash.
+
+Enter bcrypt. The great thing about bcrypt is that even as machines get faster and faster, you can increase the time it takes for bcrypt to come up with an encryption key. The longer it takes to create a hash, the longer it takes crackers to create a dictionary of possible password matches.
 
 ## Common Protocols
 
@@ -53,6 +62,10 @@ You've probably seen checksums on the net when you download large files. Once do
 ### Blowfish
 
 ### bcrypt
+
+### MD5
+
+### SHA
 
 ## Resources
 
