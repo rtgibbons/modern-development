@@ -1,7 +1,7 @@
 # Summary
 
 * [Getting Started](setup/Getting Started.md)
-	* [Bibles](setup/bibles.md)
+    * [Bibles](setup/bibles.md)
 * [Web Standards](standards/Web Standards.md)
     * [Tools](standards/Tools.md)
     * [RWD](standards/Responsive Web Design.md)
