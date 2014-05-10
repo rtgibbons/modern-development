@@ -45,7 +45,9 @@ You've probably seen checksums on the net when you download large files. Once do
 
 ## Encrypting Passwords
 
-Use bcrypt for password hashing.
+### Use a salt
+
+### Use bcrypt
 
 The thing about common hashing algorithms is that they're very fast. They're designed to be fast so you can quickly ensure data integrity. Unfortunately, this comes as a detrement for password hashing. If it's really fast to create hashes, then it's really fast for crackers to test all possible password combinations until they get a matching hash.
 
