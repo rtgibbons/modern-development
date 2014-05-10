@@ -72,3 +72,5 @@ Enter bcrypt. The great thing about bcrypt is that even as machines get faster a
 ## Resources
 
 [Wikipedia - Cryptography Portal](http://en.wikipedia.org/wiki/Portal:Cryptography) - A collection of wikipedia content related to cryptography.
+
+[How To Safely Store A Password](http://codahale.com/how-to-safely-store-a-password/) - Coda Hale's blog post about why you should be using bcrypt for storing password.
