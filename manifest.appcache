@@ -1,12 +1,16 @@
 CACHE MANIFEST
-# Revision 1399669011030
+# Revision 1399999455272
 
 CACHE:
 standards/Responsive Web Design.html
 standards/Tools.html
 standards/Web Standards.html
 index.html
-hardware/Physical.html
+middleware/Application Architecture.html
+middleware/Databases.html
+middleware/Node.html
+middleware/PHP.html
+middleware/Ruby.html
 mobile/Mobile.html
 ops/Automation.html
 ops/Dev Ops.html
@@ -15,11 +19,8 @@ ops/Monitoring.html
 ops/Performance.html
 security/Security.html
 setup/Getting Started.html
-middleware/Application Architecture.html
-middleware/Databases.html
-middleware/Node.html
-middleware/PHP.html
-middleware/Ruby.html
+setup/bibles.html
+hardware/Physical.html
 gitbook/app.js
 gitbook/fonts/anonymouspro/400.woff
 gitbook/fonts/anonymouspro/400i.woff
@@ -57,8 +58,8 @@ gitbook/jsrepl/sandbox.js
 gitbook/print.css
 gitbook/style.css
 gitbook/plugins/gitbook-plugin-ga/plugin.js
-gitbook/plugins/gitbook-plugin-mathjax/plugin.js
 gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
+gitbook/plugins/gitbook-plugin-mathjax/plugin.js
 
 NETWORK:
 *
