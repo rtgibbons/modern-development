@@ -1,6 +1,7 @@
 # Summary
 
 * [Getting Started](setup/Getting Started.md)
+    * [Bibles](setup/bibles.md)
 * [Web Standards](standards/Web Standards.md)
     * [Tools](standards/Tools.md)
     * [RWD](standards/Responsive Web Design.md)
@@ -17,4 +18,6 @@
 * [Mobile](mobile/Mobile.md)
 * [Physical](hardware/Physical.md)
 * [Security](security/Security.md)
+    * [Encryption](Encryption)
+    * [SQL Injection](SQL Injection)
 
