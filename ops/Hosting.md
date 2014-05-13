@@ -1,5 +1,7 @@
 # Hosting
 
+![](http://imgs.xkcd.com/comics/the_cloud.png)
+
 ## Services
 
 ### Cloud Server Providers (PaaS)
