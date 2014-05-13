@@ -68,6 +68,7 @@
 #### Addons
 * [Backbone Mixins](http://ricostacruz.com/backbone-patterns/#mixins)
 * [Backbone.Marionette](http://marionettejs.com/)
+* [Bakbone Epoxy](https://github.com/gmac/backbone.epoxy) - Data Binding
 
 #### Learn
 * http://addyosmani.github.io/backbone-fundamentals/
@@ -120,6 +121,7 @@
 
 ### Articles
 * http://blog.codinghorror.com/please-dont-learn-to-code/
+* https://blog.mozilla.org/webdev/2014/03/19/building-a-javascript-library-with-tests-mocks-and-ci/
 
 
 
