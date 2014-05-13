@@ -5,7 +5,7 @@
 ### Cloud Server Providers (PaaS)
 
 * [AWS - Amazon Web Services](http://aws.amazon.com)
- * The largest and most widely used cloud computing service
+ * The [largest and most widely used cloud computing service](http://www.businessinsider.com/amazons-aws-market-share-and-revenues-2013-8)
 * [Google Compute Engine](https://cloud.google.com/products/compute-engine/)
  * A relatively new player in the cloud computing space.  Cloud servers are run from Google's own data centers and it's been reported that the [network performance far exceeds AWS](https://gigaom.com/2013/03/15/by-the-numbers-how-google-compute-engine-stacks-up-to-amazon-ec2/)
 * [Rackspace](http://www.rackspace.com/)
