@@ -16,6 +16,8 @@
     * [Automation](ops/Automation.md)
     * [Monitoring](ops/Monitoring.md)
 * [Mobile](mobile/Mobile.md)
+    * [iOS](mobile/iOS.md)
+    * [Android](mobile/Android.md)
 * [Physical](hardware/Physical.md)
 * [Security](security/Security.md)
     * [Encryption](security/Encryption.md)
