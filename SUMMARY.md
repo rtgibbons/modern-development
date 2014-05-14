@@ -20,4 +20,6 @@
 * [Security](security/Security.md)
     * [Encryption](Encryption)
     * [SQL Injection](SQL Injection)
+* [Email](email/Email.md)
+* [QA](qa/QA.md)
 

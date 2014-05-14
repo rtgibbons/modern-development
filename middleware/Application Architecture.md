@@ -7,5 +7,7 @@
 
 ## Tools
 
+* [Cocoa REST Client (OSX)](https://code.google.com/p/cocoa-rest-client/)
+ * Native app to make http requests
 * [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en) - REST Client (Chrome Extenstion)
 * [Charles](http://www.charlesproxy.com/) (OSX Debugging Proxy App)

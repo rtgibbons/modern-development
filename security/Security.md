@@ -2,16 +2,30 @@
 
 ## Reading
 
-OWASP - https://www.owasp.org/index.php/Main_Page
+* [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
+ * Community resource that tracks exploits, best practices, etc.
 
 ## Tools
 
-Kali Linux (Automated Testing Tools) - http://www.kali.org/
+* [Kali Linux](http://www.kali.org/)
+ * Lots of automated testing and security tools
+ * Formerly "Backtrack Linux"
 
-## Virtual Machines
+## Password Management
 
-VMWare Fusion - https://www.vmware.com/products/fusion/
+* [1Password](https://agilebits.com/downloads)
+ * Personal password management with handy browser extensions
 
-## Other
+## Hardware Security
 
-Password Management - [1Password](https://agilebits.com/downloads)
+Best practices should include using full disk encryption (FDE).  Solutions are available for most platforms
+
+* [FileVault (OSX only)](http://support.apple.com/kb/ht4790)
+ * Built into the latest OSX versions.  Use it!
+* [BitLocker (Windows only)](http://windows.microsoft.com/en-us/windows-8/bitlocker-drive-encryption)
+ * Built into windows
+* [TrueCrypt](http://www.truecrypt.org/)
+ * Free!
+ * Cross platform.  Available on Windows, OSX, Linux
+ * Offers a variety of encryption algorithms
+ * Supports encryption of full disks, partitions, files
