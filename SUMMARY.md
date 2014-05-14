@@ -18,8 +18,8 @@
 * [Mobile](mobile/Mobile.md)
 * [Physical](hardware/Physical.md)
 * [Security](security/Security.md)
-    * [Encryption](Encryption)
-    * [SQL Injection](SQL Injection)
+    * [Encryption](security/Encryption.md)
+    * [SQL Injection](security/SQL Injection.md)
 * [Email](email/Email.md)
 * [QA](qa/QA.md)
 
