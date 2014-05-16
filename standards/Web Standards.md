@@ -42,6 +42,7 @@
 * http://www.html5rocks.com/en/
 * http://caniuse.com/
 * http://css3please.com/
+* http://www.webplatform.org/ - The Web Documented
 
 ### Best Practices
 * MDO - [HTML/CSS Code Style Guide](http://mdo.github.io/code-guide/)
@@ -79,6 +80,7 @@
 
 ### Web Components
 * http://webcomponents.org/
+* http://www.polymer-project.org/
 
 ## JS Testing
 * Jasmine - http://jasmine.github.io/2.0/introduction.html
@@ -86,12 +88,13 @@
 
 ## Getting Creative
 
-### Canvas
+### Canvas / SVG
 * http://vladakilov.github.io/imagine/ - Lightweight Canvas
 * http://kineticjs.com/
 * http://fabricjs.com/
 * http://www.createjs.com/#!/EaselJS
 * http://paperjs.org/
+* http://snapsvg.io/- Adobe
 
 ### Bootstrap Themes
 * https://wrapbootstrap.com/

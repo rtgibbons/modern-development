@@ -3,10 +3,10 @@
 
 
 ## Mobile Web
-* Phone - http://phonegap.com/
-* PhoneGap + Stero - http://www.appgyver.com/im/
-* JQuery Mobile - http://jquerymobile.com/m/
-* Appcelerator - http://www.appcelerator.com/
+* [PhoneGap](http://phonegap.com/)
+* [PhoneGap + Steroids](http://www.appgyver.com/im/)
+* [JQuery Mobile](http://jquerymobile.com/m/)
+* [Appcelerator](http://www.appcelerator.com/)
 
 ## Prototyping
 * [Ratchet](http://goratchet.com/) - HTML5 Mobile Components
@@ -16,4 +16,4 @@
 
 
 ### Newsletters
-* http://mobilewebweekly.co/
+* [Mobile Web Weekly](http://mobilewebweekly.co/)

@@ -16,4 +16,5 @@
 
 
 ## Debugging
-[PHP XDebug](http://xdebug.org/docs/) and [Browser Plugin](https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc)
+* [PHP XDebug](http://xdebug.org/docs/) and [Browser Plugin](https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc)
+* [PHP Exceptions](http://code.tutsplus.com/tutorials/php-exceptions--net-22274) - Intro
