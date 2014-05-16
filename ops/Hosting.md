@@ -4,7 +4,7 @@
 
 ## Services
 
-### Cloud Server Providers (PaaS)
+### Cloud Server Providers (IaaS)
 
 * [AWS - Amazon Web Services](http://aws.amazon.com)
  * The [largest and most widely used cloud computing service](http://www.businessinsider.com/amazons-aws-market-share-and-revenues-2013-8)
@@ -15,7 +15,7 @@
  * .NET Cloud hosting
 * [Cloud Foundry](http://www.gopivotal.com/platform-as-a-service/pivotal-cf)
 
-### Managed
+### Managed (PaaS)
 
 Managed hosting platforms let you concentate on coding and not worry about managing servers.
 
